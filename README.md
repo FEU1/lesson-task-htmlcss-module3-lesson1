@@ -6,6 +6,8 @@
 
 Use positioning to make the welcome section of the home page look like the prototype.
 
-By the end of the task, your page should look like this:
+### Video
 
-![Result of task 3.1](assets/html-css-task3-1_result.PNG)
+This video shows you how to complete the lesson task 3.1. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/480371273/c9007affb9)
